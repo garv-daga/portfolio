@@ -17,7 +17,7 @@ social_links:
   email: "mailto:garv_daga@yahoo.com"
 
 # Theme Settings
-theme: "minimal"
+theme: "jekyll-theme-minimal"
 show_downloads: true
 favicon: "assets/images/favicon.ico"
 
