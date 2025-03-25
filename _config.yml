@@ -15,9 +15,10 @@ social_links:
   linkedin: "https://www.linkedin.com/in/garv-daga/"
   github: "https://github.com/garv-daga"
   email: "mailto:garv_daga@yahoo.com"
+  portfolio: "https://garv-daga.github.io/portfolio/"
 
 # Theme Settings
-theme: "jekyll-theme-minimal"
+theme: jekyll-theme-minimal
 show_downloads: true
 favicon: "assets/images/favicon.ico"
 
@@ -28,7 +29,7 @@ nav:
   - title: "Projects"
     url: "/projects/"
   - title: "Resume"
-    url: "https://github.com/garv-daga/resume"
+    url: "/docs/Resume.pdf"
   - title: "Blog"
     url: "/blog/"
   - title: "Contact"
