@@ -1,17 +1,39 @@
-title: <p align="center"> Garv Daga </p>
-logo: /assets/img/Garv_Daga_Passport_Photo.png
+# Site Settings
 
-description:
-  <p align="center">
-  <a href="docs/Resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/garv-daga-372649148">LinkedIn</a> |
-  <a href="https://github.com/garv-daga">GitHub</a>
-  
-  <br>   
-  Software Engineer with Full Stack Development Experience in a Product Based Company.
-  Skilled in C# , dotNet Core and Angular. Strong Engineering Professional with hands on experience of Agile Programming by actively working on Requirement Gathering , Planning and Developing stories using TDD.
-  I'm currently working on Machine learning related problems and this portfolio focusses on the projects I have recently completed.
-  <br>
-  </p>
+# Basic Information
+name: "Garv Daga"
+title: "AI/ML Engineer | Senior Software Engineer | Full Stack Developer"
+description: "Portfolio showcasing expertise in AI, Machine Learning, and Full Stack Development. Passionate about scalable architectures and AI-driven solutions."
 
-theme: jekyll-theme-minimal
+# Contact Information
+email: "garv_daga@yahoo.com"
+github_username: "garv-daga"
+linkedin_username: "garv-daga"
+
+# Social Links
+social_links:
+  linkedin: "https://www.linkedin.com/in/garv-daga/"
+  github: "https://github.com/garv-daga"
+  email: "mailto:garv_daga@yahoo.com"
+
+# Theme Settings
+theme: "minimal"
+show_downloads: true
+favicon: "assets/images/favicon.ico"
+
+# Navigation
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Resume"
+    url: "https://github.com/garv-daga/resume"
+  - title: "Blog"
+    url: "/blog/"
+  - title: "Contact"
+    url: "/contact/"
+
+# SEO Optimization
+permalink: pretty
+google_analytics: "UA-XXXXXXXXX-X"  # Replace with actual tracking ID
